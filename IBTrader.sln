@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBTrader", "IBTrader\IBTrader.csproj", "{3FEF9593-CA2F-4D09-8ECC-42D618DF1C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB.Core", "IB.Core\IB.Core.csproj", "{84985DDC-C86F-424A-B972-ED31BF23F633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB.Db", "IB.Db\IB.Db.csproj", "{2669F402-2BA6-4C2B-81B8-90A7D9CC9BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FEF9593-CA2F-4D09-8ECC-42D618DF1C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEF9593-CA2F-4D09-8ECC-42D618DF1C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEF9593-CA2F-4D09-8ECC-42D618DF1C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEF9593-CA2F-4D09-8ECC-42D618DF1C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84985DDC-C86F-424A-B972-ED31BF23F633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84985DDC-C86F-424A-B972-ED31BF23F633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84985DDC-C86F-424A-B972-ED31BF23F633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84985DDC-C86F-424A-B972-ED31BF23F633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2669F402-2BA6-4C2B-81B8-90A7D9CC9BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2669F402-2BA6-4C2B-81B8-90A7D9CC9BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2669F402-2BA6-4C2B-81B8-90A7D9CC9BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2669F402-2BA6-4C2B-81B8-90A7D9CC9BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
