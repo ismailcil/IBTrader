@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="ConnectionString" Type="System.String" Scope="User">
-      <Value Profile="(Default)">data source=CTRISTVM040\SQLEXPRESS;initial catalog=StockMarket;persist security info=True;user id=trader;password=a1b2c3d4;MultipleActiveResultSets=True;App=IBTrade</Value>
+      <Value Profile="(Default)">data source=.\SQLEXPRESS;initial catalog=StockMarket;persist security info=True;user id=trader;password=a1b2c3d4;MultipleActiveResultSets=True;App=IBTrade</Value>
     </Setting>
     <Setting Name="MailServerUserName" Type="System.String" Scope="User">
       <Value Profile="(Default)" />

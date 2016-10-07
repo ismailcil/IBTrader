@@ -25,9 +25,8 @@ namespace IB.Core.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("data source=CTRISTVM040\\SQLEXPRESS;initial catalog=StockMarket;persist security i" +
-            "nfo=True;user id=trader;password=a1b2c3d4;MultipleActiveResultSets=True;App=IBTr" +
-            "ade")]
+        [global::System.Configuration.DefaultSettingValueAttribute("data source=.\\SQLEXPRESS;initial catalog=StockMarket;persist security info=True;u" +
+            "ser id=trader;password=a1b2c3d4;MultipleActiveResultSets=True;App=IBTrade")]
         public string ConnectionString {
             get {
                 return ((string)(this["ConnectionString"]));
